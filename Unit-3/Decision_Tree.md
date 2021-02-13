@@ -100,6 +100,8 @@
    - Now we'll calculate the Information gain of this target attribute.
 ### 2.
    - Find Entropy of each attribute which are present in the table
+
+![Decision tree solution](https://raw.githubusercontent.com/AyushJoker/content_aktu/main/assets/DTsoln.jpg)
+
 ### 3. 
    - Now apply ID3 algorithm to construct the decision tree
-
