@@ -102,3 +102,4 @@
    - Find Entropy of each attribute which are present in the table
 ### 3. 
    - Now apply ID3 algorithm to construct the decision tree
+
