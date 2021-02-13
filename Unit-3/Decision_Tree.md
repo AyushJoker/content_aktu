@@ -108,5 +108,17 @@
    - After applying ID3 algorithm our final decision tree will be : 
    ![Decision tree graph](https://miro.medium.com/max/605/1*lmO50a4OQQiuc3cwDg217g.jpeg)
    -----
+   
+   ## ***Issues in decision tree:***
+
+   - Determining how deeply to grow the decision tree
+
+   - Handling continuous attributes
+
+   - Choosing an appropriate attribute
+
+   - Selecton measure
+
+   - Handling traning data with missing attributes values.
 
    
