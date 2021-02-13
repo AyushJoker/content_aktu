@@ -105,3 +105,8 @@
 
 ### 3. 
    - Now apply ID3 algorithm to construct the decision tree
+   - After applying ID3 algorithm our final decision tree will be : 
+   ![Decision tree graph](https://miro.medium.com/max/605/1*lmO50a4OQQiuc3cwDg217g.jpeg)
+   -----
+
+   
