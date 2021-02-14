@@ -14,7 +14,7 @@
 
 - we can represent a linear regression as:
 
->y= a0+a1x+ ε
+`y= a0+a1x+ ε`
 ### **Here**,
 
 - Y= Dependent Variable (Target Variable)
