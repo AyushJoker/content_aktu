@@ -19,15 +19,23 @@
 - **There can be two type of SVM :**
 
      - ### Linear SVM: 
+
          - Linear SVM is used for linearly separable data, which means if a dataset can be classified into two classes by using a single straight line, then such data is termed as linearly separable data, and classifier is used called as Linear SVM classifier.
 
     - ### Non-linear SVM:
 
-        - Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot be classified by using a straight line, then such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier.
+        - Non-Linear SVM is used for non-linearly 
+        separated data, which means if a dataset cannot 
+        be classified by using a straight line, then such 
+        data is termed as non-linear data and classifier 
+        used is called as Non-linear SVM classifier.
+
 ---
+
 ## Hyperplane and Support Vectors in the SVM algorithm:
 
 **Hyperplane:**
+
  -  There can be multiple lines/decision boundaries to segregate the classes in n-dimensional space, but we need to find out the best decision boundary that helps to classify the data points. This best boundary is known as the hyperplane of SVM.
 
  - We always create a hyperplane that has a maximum margin, which means the maximum distance between the data points.
@@ -40,7 +48,11 @@
 
  ### ***Numericals based on Hyperplane:***
 
+
  - **Plot hyperplane of the following points. (1,1),(2,1),(2,-1),(1,-1),(4,0),(5,1),(5,-1),(6,0).** 
 
- ![]()
+   ![](https://raw.githubusercontent.com/AyushJoker/content_aktu/main/assets/HyperplaneSoln-1.jpg)
+
+
+   ![](https://raw.githubusercontent.com/AyushJoker/content_aktu/main/assets/HyperplaneSoln-2.jpg)
   
