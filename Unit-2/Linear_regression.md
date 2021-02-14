@@ -14,7 +14,8 @@
 
 - we can represent a linear regression as:
 
-`y= a0+a1x+ ε`
+  >y= a0+a1x+ ε
+
 ### **Here**,
 
 - Y= Dependent Variable (Target Variable)
@@ -65,7 +66,8 @@ A linear line showing the relationship between the dependent and independent var
 For Linear Regression, we use the Mean Squared Error (MSE) cost function, which is the average of squared error occurred between the predicted values and actual values. It can be written as:
 
 - For the above linear equation, MSE can be calculated as:
-![MSE](https://static.javatpoint.com/tutorial/machine-learning/images/linear-regression-in-machine-learning4.png)
+
+   ![MSE](https://static.javatpoint.com/tutorial/machine-learning/images/linear-regression-in-machine-learning4.png)
 
 **Where,**
 
