@@ -57,7 +57,9 @@ This is the Bayes’ Theorem.
 | Others | 50     | 100   | 50   | 150   |
 |Total   | 800    | 850   | 400  | 1200  |
 
+**Solution :**
 
+![NBsoln](https://raw.githubusercontent.com/AyushJoker/content_aktu/main/assets/NaiveBayesSoln.jpg)
 
 
 
